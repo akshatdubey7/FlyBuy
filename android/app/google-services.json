@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "604474277805",
+    "project_id": "flybuy-fea80",
+    "storage_bucket": "flybuy-fea80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604474277805:android:4348cf683ac5c22be9ab24",
+        "android_client_info": {
+          "package_name": "com.example.flutter_flybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604474277805-g5ji13gh8fhneg41cn0f713ga25a4j3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_flybuy",
+            "certificate_hash": "2bd24789aa0f43a52193b6aca5df26ac3c0b810d"
+          }
+        },
+        {
+          "client_id": "604474277805-no83cq0c21e700qk5nfme8lsel5lh7kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6iGtgpLHLeF_mZAcowPz2fsuGQHw4PNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604474277805-no83cq0c21e700qk5nfme8lsel5lh7kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
